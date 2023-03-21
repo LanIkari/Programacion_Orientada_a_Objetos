@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html"><img src="https://github.com/LanIkari/Programacion_Orientada_a_Objetos/blob/main/Static/java.png" alt="Java"></a>
+  <a href="https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html"><img src="https://github.com/LanIkari/Programacion_Orientada_a_Objetos/blob/main/Static/PanelPOO.png" alt="Java"></a>
 </p>
 
 ****
